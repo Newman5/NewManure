@@ -1,0 +1,8 @@
+title,url,main_language,technologies
+Build an Interpreter,http://www.craftinginterpreters.com/,C/C++,C/C++
+Memory Allocators 101 - Write a simple memory allocator,https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory,C/C++,C/C++
+Write a Shell in C,https://brennan.io/2015/01/16/write-a-shell-in-c/,C/C++,C/C++
+Write a FUSE Filesystem,https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/,C/C++,C/C++
+Build Your Own Text Editor,http://viewsourcecode.org/snaptoken/kilo/,C/C++,C/C++
+Build Your Own Lisp,http://www.buildyourownlisp.com/,C/C++,C/C++
+How to Program an NES Game in C,https://nesdoug.com/,C/C++,C/C++
